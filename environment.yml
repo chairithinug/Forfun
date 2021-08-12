@@ -1,9 +1,10 @@
-name: base
+name: forfun
 channels:
   - defaults
 dependencies:
-  - conda
   - python=3.7
+  - jupyter
   - pandas
-  - matplotlib
   - ipywidgets
+  - matplotlib
+prefix: C:\Users\mew_2\Anaconda3\envs\forfun

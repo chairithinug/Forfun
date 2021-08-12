@@ -1,6 +1,6 @@
 name: base
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - conda
   - python=3.7
@@ -15,4 +15,3 @@ dependencies:
   - anaconda-navigator
   - navigator-updater
   - ipywidgets
-prefix: C:\Users\mew_2\Anaconda3
